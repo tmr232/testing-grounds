@@ -1,0 +1,2 @@
+{"ts":1345292168147,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1345292268589,"patch":[[{"diffs":[[1,"<html>\n    <head>\n        <script src=\"../js/jquery.js\"></script>\n    \t<script src=\"script.js\"></script>\n    </head>\n    <body>\n        <div id=\"container\"></div>\n    </body>\n</html>"]],"start1":0,"start2":0,"length1":0,"length2":182}]],"length":182,"saved":false}
